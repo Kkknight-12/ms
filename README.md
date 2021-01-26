@@ -16,7 +16,7 @@ _or_
 
 ### `git branch -a`
 
-## change branch
+## Change Branch
 
 ### `git checkout branchName`
 
@@ -24,7 +24,7 @@ _or_
 
 ### `git push --set-upstream origin branchName`
 
-## delete branch
+## Delete Branch
 
 _delete before merge_
 
@@ -40,6 +40,6 @@ first go back to master branch
 
 ### `git checkout master`
 
-than
+_than_
 
 ### `git merge branchName`
