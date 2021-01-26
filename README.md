@@ -4,11 +4,13 @@
 
 ## create new branch
 
-**git branch branchName**
+### `git branch branchName`
 
-_or_
+## or
+
 _-b for new branch_
-**git checkout -b branchName**
+
+### `git checkout -b branchName`
 
 ## command to see all the branches
 
@@ -16,7 +18,7 @@ _-b for new branch_
 
 ## change branch
 
-**git checkout branchName\***
+### `git checkout branchName`
 
 ## push the branch to git
 
@@ -26,14 +28,15 @@ _-b for new branch_
 
 ## delete before merge
 
-**git branch -D branchName**
+### `git branch -D branchName`
 
 ## delete after merge
 
-**git branch -d branchNAme**
+###`git branch -d branchNAme`
 
 ## merge to master
 
-**git checkout master** to back to master branch
-
+first go back to master branch
+**git checkout master**
+than
 **git merge branchName**
