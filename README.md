@@ -18,6 +18,10 @@ _-b for new branch_
 
 **git checkout branchName\***
 
+##
+
+**git push --set-upstream origin branchName**
+
 # delete branch
 
 ## delete before merge
