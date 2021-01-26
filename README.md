@@ -6,7 +6,7 @@
 
 ### `git branch branchName`
 
-_or_
+\_or_b
 
 **_-b for new branch_**
 
@@ -32,7 +32,7 @@ _delete before merge_
 
 _delete after merge_
 
-### `git branch -d branchNAme`
+### `git branch -d branchName`
 
 ## merge to master
 
