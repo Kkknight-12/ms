@@ -12,15 +12,15 @@ _-b for new branch_
 
 ## command to see all the branches
 
-**git branch -a**
+### `git branch -a`
 
 ## change branch
 
 **git checkout branchName\***
 
-##
+## push the branch to git
 
-**git push --set-upstream origin branchName**
+### `git push --set-upstream origin branchName`##
 
 # delete branch
 
