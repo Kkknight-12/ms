@@ -6,9 +6,9 @@
 
 ### `git branch branchName`
 
-## or
+_or_
 
-_-b for new branch_
+**_-b for new branch_**
 
 ### `git checkout -b branchName`
 
