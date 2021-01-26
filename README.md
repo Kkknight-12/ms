@@ -32,11 +32,14 @@ _-b for new branch_
 
 ## delete after merge
 
-###`git branch -d branchNAme`
+### `git branch -d branchNAme`
 
 ## merge to master
 
 first go back to master branch
-**git checkout master**
+
+### `git checkout master`
+
 than
-**git merge branchName**
+
+### `git merge branchName`
