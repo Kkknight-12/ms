@@ -1,4 +1,4 @@
-# how to Clone Repo
+# Clone Repo
 
 **_git clone https:git@github.com:userName/repoName.git_**
 
@@ -6,7 +6,7 @@
 
 ### `git branch branchName`
 
-\_or_b
+_or_
 
 **_-b for new branch_**
 
