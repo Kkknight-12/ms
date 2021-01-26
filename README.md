@@ -1,8 +1,8 @@
-# how to clone repo
+# how to Clone Repo
 
 **_git clone https:git@github.com:userName/repoName.git_**
 
-## create new branch
+## Create New Branch
 
 ### `git branch branchName`
 
@@ -12,7 +12,7 @@ _or_
 
 ### `git checkout -b branchName`
 
-## command to see all the branches
+## Command to see all the branches
 
 ### `git branch -a`
 
@@ -22,15 +22,15 @@ _or_
 
 ## push the branch to git
 
-### `git push --set-upstream origin branchName`##
+### `git push --set-upstream origin branchName`
 
-# delete branch
+## delete branch
 
-## delete before merge
+_delete before merge_
 
 ### `git branch -D branchName`
 
-## delete after merge
+_delete after merge_
 
 ### `git branch -d branchNAme`
 
