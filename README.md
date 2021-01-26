@@ -36,7 +36,7 @@ _delete after merge_
 
 ## merge to master
 
-first go back to master branch
+_first go back to master branch_
 
 ### `git checkout master`
 
